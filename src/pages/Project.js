@@ -1,5 +1,4 @@
 import BtnGitHub from "../components/btnGitHub/BtnGitHub";
-import sushiProj from "../img/projects/react-sushi.jpg";
 import { useParams } from "react-router-dom";
 import {projects} from "../helpers/projectsList";
 const Project = () => {
