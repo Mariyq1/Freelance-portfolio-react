@@ -4,6 +4,8 @@ import weather from "./../img/projects/weather-project.jpg";
 import weatherBig from "./../img/projects/react-weather.png";
 import users from "./../img/projects/users-project.jpg";
 import usersBig from "./../img/projects/react-users.png";
+import todolist from "./../img/projects/tsSmall.png";
+import todolistBig from "./../img/projects/tsBig.png"
 
 const projects = [
     {
@@ -26,6 +28,13 @@ const projects = [
         img: users,
         imgBig: usersBig,
         gitHubLink: "https://github.com/Mariyq1/simple-project"
+    },
+    {
+        title: "TodoList",
+        skills: "React, TypeScript",
+        img: todolist,
+        imgBig: todolistBig,
+        gitHubLink: "https://github.com/Mariyq1/todolist-react"
     }
 ]
 export {projects}

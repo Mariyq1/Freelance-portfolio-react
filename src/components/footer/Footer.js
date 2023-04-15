@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer__wrapper">
         <ul className="social">
             <li className="social__item">
-                <a href="#!">
+                <a href="https://www.linkedin.com/in/mariya-pugachova/">
                     <img src={linkedin} alt="link"/>
                 </a>
             </li>
@@ -20,7 +20,7 @@ const Footer = () => {
                 </a>
             </li>
             <li className="social__item">
-                <a href="#!">
+                <a href="https://github.com/Mariyq1">
                     <img src={gitHub} alt="link"/>
                 </a>
             </li>
